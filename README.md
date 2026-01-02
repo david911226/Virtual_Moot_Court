@@ -49,7 +49,7 @@ ollama pull llama3
 ### 步驟 1：Clone 專案
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/david911226/Virtual_Moot_Court.git
 cd Virtual_Moot_Court
 
 ```
