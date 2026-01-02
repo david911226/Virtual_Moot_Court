@@ -1,0 +1,6 @@
+[theme]
+# 主色調 (按鈕、輸入框邊框、側邊欄亮條)
+primaryColor = "#1E88E5"
+
+# 強制深色模式
+base = "dark"
