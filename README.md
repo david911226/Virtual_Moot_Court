@@ -1,4 +1,5 @@
 # ⚖️ Virtual Moot Court (虛擬法庭模擬器)
+(2026 Theory of Computation Final Project)
 
 這是一個基於 Python 與 Streamlit 的 AI 法律諮詢與模擬法庭系統。透過本地運行的 LLM (Llama3) 與本地法規資料庫，提供使用者從案情分析、法律諮詢到模擬法庭攻防的一站式體驗。
 
